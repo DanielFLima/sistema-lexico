@@ -1,4 +1,4 @@
 # sistema-lexico
 
-## Falta muitas melhorias e melhorar a lógica 
+Falta muitas melhorias e melhorar a lógica 
 
