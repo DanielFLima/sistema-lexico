@@ -1,0 +1,9 @@
+{
+    "Tipos_variaveis":["let", "var", "const"],
+    "Simbolos":[">", "<", "=>", "<=","=+","=-", "++", "--", "(", ")", "{", "}","||"],
+    "Operadores":["+", "-", "*", "/","=","===","!","!=="],
+    "Funçoes":["function"],
+    "Outros":[":", ";", ",",".","null"],
+    "Boolean":["true", "false"],
+    "Retorno":"return"
+}
