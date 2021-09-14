@@ -4,27 +4,30 @@ Falta muitas melhorias e melhorar a lógica
 
 Exemplo de retorno com o código de teste.
 
-*********CÓDIGO*************
+CÓDIGO
 ['function', 'multiplica(num1,num2)', '{']
-****************************
-**********SAÍDA*************
+
+SAÍDA
 funçoes function
 simbolos {
-*********CÓDIGO*************
+
+CÓDIGO
 ['let', 'resultado', '=', 'num1', '*', 'num2', ';']
-****************************
-**********SAÍDA*************
+
+SAÍDA
 Tipos_variaveis let
 operadores =
 operadores *
 outros ;
-*********CÓDIGO*************
+
+CÓDIGO
 ['return', 'resultado', ';']
-****************************
-**********SAÍDA*************
+
+SAÍDA
 outros ;
-*********CÓDIGO*************
+
+CÓDIGO
 ['}']
-****************************
-**********SAÍDA*************
+
+SAÍDA
 simbolos }
