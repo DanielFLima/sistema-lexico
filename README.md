@@ -1,33 +1,33 @@
 # sistema-lexico
 
-Falta muitas melhorias e melhorar a lógica 
+Falta muitas melhorias e melhorar a lógica <br>
 
-Exemplo de retorno com o código de teste.
+Exemplo de retorno com o código de teste.<br>
 
-CÓDIGO
-['function', 'multiplica(num1,num2)', '{']
+----------CÓDIGO----------<br>
+['function', 'multiplica(num1,num2)', '{' ]<br>
 
-SAÍDA
+----------SAÍDA----------<br>
 funçoes function
-simbolos {
+simbolos {<br>
 
-CÓDIGO
-['let', 'resultado', '=', 'num1', '*', 'num2', ';']
+----------CÓDIGO----------<br>
+['let', 'resultado', '=', 'num1', '*', 'num2', ';']<br>
 
-SAÍDA
+----------SAÍDA----------<br>
 Tipos_variaveis let
 operadores =
 operadores *
-outros ;
+outros ;<br>
 
-CÓDIGO
-['return', 'resultado', ';']
+----------CÓDIGO----------<br>
+['return', 'resultado', ';']<br>
 
-SAÍDA
-outros ;
+----------SAÍDA----------<br>
+outros ;<br>
 
-CÓDIGO
-['}']
+----------CÓDIGO----------<br>
+['}']<br>
 
-SAÍDA
+----------SAÍDA----------<br>
 simbolos }
